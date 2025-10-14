@@ -28,4 +28,4 @@ Have questions or want to collaborate?
 
 ---
 
-© 2025 Octovel Group. All rights reserved.
+© 2025 Octovel. All rights reserved.
