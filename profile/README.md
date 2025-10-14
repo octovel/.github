@@ -1,4 +1,4 @@
-![GitHub Profile Banner](https://raw.githubusercontent.com/octovel/.github/refs/heads/stable/assets/github_profile_banner.svg)
+![GitHub Profile Banner](https://raw.githubusercontent.com/octovel/.github/refs/heads/main/assets/github_profile_banner.svg)
 
 ## Our Mission
 
