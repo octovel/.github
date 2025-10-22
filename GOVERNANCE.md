@@ -1,6 +1,6 @@
-# Gleemo Governance
+# Octovel Governance
 
-This document outlines the governance model for the Gleemo organization and its projects. It defines how decisions are made, who makes them, and how the community can participate in the process.
+This document outlines the governance model for the Octovel organization and its projects. It defines how decisions are made, who makes them, and how the community can participate in the process.
 
 ## 1. Roles and Responsibilities
 
@@ -53,7 +53,7 @@ This document outlines the governance model for the Gleemo organization and its 
 
 ## 4. Code of Conduct
 
-All participants in the Gleemo organization are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+All participants in the Octovel organization are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## 5. Communication
 
@@ -71,10 +71,10 @@ The project's direction is determined by the maintainers based on:
 - Technical feasibility
 - Alignment with project goals
 
-## 7. License
-
-All projects under the Gleemo organization are licensed under the [MIT License](LICENSE).
-
-## 8. Amendments
+## 7. Amendments
 
 This governance model may be amended by a 2/3 majority vote of the maintainers.
+
+---
+
+*Last updated: October 22nd, 2025*
