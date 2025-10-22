@@ -52,14 +52,6 @@ We welcome feature requests! Please:
 
 ## Frequently Asked Questions (FAQ)
 
-### General
-
-**Q: How do I get started with Octovel projects?**
-A: Check out our [Getting Started](https://docs.octovel.com/getting-started) guide.
-
-**Q: What are the system requirements?**
-A: Most Octovel projects support the latest versions of major browsers and Node.js LTS. Check individual project READMEs for specific requirements.
-
 ### Troubleshooting
 
 **Q: I'm getting an error. What should I do?**
@@ -100,4 +92,4 @@ For security-related concerns, please see our [SECURITY.md](SECURITY.md) policy.
 
 ---
 
-_Last updated: October 2025_
+*Last updated: October 22nd, 2025*
