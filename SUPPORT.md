@@ -66,7 +66,7 @@ A: First, check the error message carefully and search our issues for similar pr
 
 ### Chat
 
-Join our community on [Discord](https://discord.gg/octovel) for real-time discussions and support.
+Join our community on [Discord](https://discord.gg/S83Emzj5bB) for real-time discussions and support.
 
 ## Commercial Support
 
