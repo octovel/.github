@@ -1,0 +1,16 @@
+# CODEOWNERS
+# Automatically assign code reviewers based on file paths.
+# Format: <path> <owner(s)>
+
+# Global owners — default reviewers for all files
+*               @octovel/chief
+
+# Source code
+/source/        @octovel/core-developers
+
+# Documentation
+/docs/          @octovel/security-compliance
+/README.md      @octovel/docs-team
+
+# GitHub configuration and workflows
+/.github/       @octovel/ci-cd-devops
