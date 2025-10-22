@@ -7,3 +7,7 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 ## Contact
 
 For any questions or concerns regarding this notice, please contact [support@octovel.com](mailto:support@octovel.com).
+
+---
+
+*Last updated: October 22nd, 2025*
