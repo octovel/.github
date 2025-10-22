@@ -83,3 +83,7 @@ By submitting a vulnerability report, you agree to our [responsible disclosure p
 - Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service
 - Only interact with accounts they own or have explicit permission to test
 - Provide us with reasonable time to address the issue before any public disclosure
+
+---
+
+*Last updated: October 22nd, 2025*
