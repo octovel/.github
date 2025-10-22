@@ -24,7 +24,7 @@ Have questions or want to collaborate?
 
 - Email: [contact@octovel.com](mailto:contact@octovel.com)
 - Twitter: [@octovelgroup](https://x.com/octovelgroup)
-- Discord: [Join our community](https://discord.gg/octovel)
+- Discord: [Join our community](https://discord.gg/S83Emzj5bB)
 
 ---
 
