@@ -1,16 +1,7 @@
-# CODEOWNERS
-# Automatically assign code reviewers based on file paths.
-# Format: <path> <owner(s)>
-
-# Global owners — default reviewers for all files
-*               @octovel/chief
-
-# Source code
-/source/        @octovel/core-developers
-
-# Documentation
-/docs/          @octovel/security-compliance
-/README.md      @octovel/docs-team
-
-# GitHub configuration and workflows
-/.github/       @octovel/ci-cd-devops
+# As stated in our agreement policy and other document,
+# Ownership of the codes and belongs to CTO & Chief.
+# "By submitting code, documentation, or other materials (“Contributions”),
+# the contributor grants Octovel a perpetual, worldwide,
+# royalty-free license to use, modify, distribute,
+# and sublicense those contributions as part of Octovel projects.
+*         @octovel/chief    @octovel/cto-leadership
