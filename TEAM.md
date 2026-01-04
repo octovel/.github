@@ -6,6 +6,6 @@
 
 [@bekian](https://github.com/bekian/) - Lead Engineer, Senior Software Developer, Community Director
 
-[@ivay-d](https://github.com/ivay-d) - Lead Engineer, Senior Software Developer
+[@aram-j](https://github.com/aram-j) - Lead Engineer, Senior Software Developer
 
-*Last updated: October 22nd, 2025*
+*Last updated: January 4, 2026*
