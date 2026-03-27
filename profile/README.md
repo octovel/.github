@@ -22,7 +22,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 
 Have questions or want to collaborate?
 
-- Email: [contact@octovel.com](mailto:contact@octovel.com)
+- Email: [contact@octovel.org](mailto:contact@octovel.org)
 - Twitter: [@octovelgroup](https://x.com/octovelgroup)
 - Discord: [Join our community](https://discord.gg/S83Emzj5bB)
 
