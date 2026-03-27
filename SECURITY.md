@@ -14,7 +14,7 @@ Octovel maintains multiple open source projects, each with its own versioning an
 
 1. Check the project's `README.md` or `SECURITY.md` file
 2. Look for the "Releases" section in the project's GitHub repository
-3. Visit our [documentation](https://docs.octovel.com) for detailed version support
+3. Visit our [documentation](https://docs.octovel.org) for detailed version support
 
 ## Reporting a Vulnerability
 
@@ -23,7 +23,7 @@ Octovel maintains multiple open source projects, each with its own versioning an
 We take all security vulnerabilities seriously. If you discover a security issue, please follow these steps:
 
 1. **Do not** create a public GitHub issue for security vulnerabilities
-2. Email your findings to [security@octovel.com](mailto:security@octovel.com)
+2. Email your findings to [security@octovel.org](mailto:security@octovel.org)
 3. Include the following information:
    - Project name and version
    - Vulnerability description
@@ -74,7 +74,7 @@ Security updates will be released as patch versions (e.g., 1.0.1, 1.0.2) for the
 
 ## Contact
 
-For security-related inquiries, please contact [security@octovel.com](mailto:security@octovel.com).
+For security-related inquiries, please contact [security@octovel.com](mailto:security@octovel.org).
 
 ## Legal
 
@@ -86,4 +86,4 @@ By submitting a vulnerability report, you agree to our [responsible disclosure p
 
 ---
 
-*Last updated: October 22nd, 2025*
+*Last updated: March 27th, 2026*
