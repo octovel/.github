@@ -16,7 +16,7 @@ Thank you for using Octovel's projects! This document provides information on ho
 
 ### Documentation
 
-- Check out our [documentation](https://docs.octovel.com) for detailed guides and API references.
+- Check out our [documentation](https://docs.octovel.org) for detailed guides and API references.
 - Visit our [wiki](https://github.com/octovel/.github/wiki) for tutorials and how-tos.
 
 ### Common Issues
@@ -52,11 +52,6 @@ We welcome feature requests! Please:
 
 ## Frequently Asked Questions (FAQ)
 
-### Troubleshooting
-
-**Q: I'm getting an error. What should I do?**
-A: First, check the error message carefully and search our issues for similar problems. If you can't find a solution, please file a bug report with the details mentioned above.
-
 ## Community Support
 
 ### Discussion Forums
@@ -70,7 +65,7 @@ Join our community on [Discord](https://discord.gg/S83Emzj5bB) for real-time dis
 
 ## Commercial Support
 
-For enterprise support, SLA guarantees, or custom development, please contact [support@octovel.com](mailto:support@octovel.com).
+For enterprise support, SLA guarantees, or custom development, please contact [support@octovel.org](mailto:support@octovel.org).
 
 ### Support Plans
 
@@ -86,10 +81,10 @@ For security-related concerns, please see our [SECURITY.md](SECURITY.md) policy.
 
 ## Contact
 
-- **Email**: [support@octovel.com](mailto:support@octovel.com)
-- **Twitter**: [@octovel_group](https://twitter.com/octovel_group)
-- **Website**: [https://octovel.com](https://octovel.com)
+- **Email**: [support@octovel.org](mailto:support@octovel.org)
+- **Twitter**: [@octovelgroup](https://twitter.com/octovelgroup)
+- **Website**: [https://octovel.org](https://octovel.org)
 
 ---
 
-*Last updated: October 22nd, 2025*
+*Last updated: March 27nd, 2026*
