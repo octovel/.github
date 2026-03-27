@@ -1,6 +1,6 @@
 [@striatp](https://github.com/striatp/)
 [@bekian](https://github.com/bekian/)
-[@ivay-d](https://github.com/ivay-d)
+[@ivay-d](https://github.com/aram-j)
 
 ---
 
